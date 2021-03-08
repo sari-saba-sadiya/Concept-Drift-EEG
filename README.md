@@ -1,9 +1,9 @@
 # Concept-Drift-EEG
-concept-drift in electroencephalography data
+Concept-drift in electroencephalography data
 
-## Detection
+## Algorithms 
 
-## The Features
+### Drift Detection 
 
 | _Algorithm_     | _type_          | _Implementation_ |
 | --------------- | --------------- |  --------------- |
