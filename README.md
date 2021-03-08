@@ -21,9 +21,7 @@ Concept-drift in electroencephalography data
 | UCI EEG eye-state | Open vs Closed | used in [MDSM](https://www.hindawi.com/journals/mpe/2015/874032/) | [UCI eeg eye-state](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State)
 
 ## EEG Papaers
-[FEDD] Cavalcante, Minku, and Oliveira (IJCNN 2016), FEDD: Feature Extraction for Explicit Concept Drift Detection in time series.
-
-[ETFE] Fengqian Ding and Chao Luo (Entropy 2019), The Entropy-Based Time Domain Feature Extraction for Online Concept Drift Detection. [code](https://github.com/dingfengqian/ETFE)
-
-[MDSM] Haibo et. al, (Hindawi Publishing Corporation) Adaptive Ensemble with Human Memorizing Characteristics for Data Stream Mining.
+- [FEDD] Cavalcante, Minku, and Oliveira (IJCNN 2016), FEDD: Feature Extraction for Explicit Concept Drift Detection in time series.
+- [ETFE] Fengqian Ding and Chao Luo (Entropy 2019), The Entropy-Based Time Domain Feature Extraction for Online Concept Drift Detection. [code](https://github.com/dingfengqian/ETFE)
+- [MDSM] Haibo et. al, (Hindawi Publishing Corporation) Adaptive Ensemble with Human Memorizing Characteristics for Data Stream Mining.
 
